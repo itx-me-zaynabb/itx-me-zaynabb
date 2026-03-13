@@ -68,17 +68,6 @@ Solution: Implemented Formik + Yup validation and structured routing with React 
 
 ---
 
-### ☁ Weather App
-
-React • Axios
-
-Dynamic weather information application.
-
-Problem: API errors and loading states.
-Solution: Implemented proper error handling, loading states, and responsive UI for better usability.
-
----
-
 ### 📊 SkillTracker
 
 Interactive dashboard to track learning progress and skills.
